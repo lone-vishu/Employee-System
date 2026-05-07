@@ -65,3 +65,15 @@ This demonstrates:
 
 ```bash
 python employee_system.py
+
+
+
+## Sample Output
+
+Role is: HR
+Department is: Marketing
+Salary is: 60000
+
+Role is: Engineer
+Department is: IT
+Salary is: 45000
